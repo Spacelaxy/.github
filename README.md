@@ -1,5 +1,3 @@
-![Slogan](https://user-images.githubusercontent.com/119537238/216734500-301028ac-1373-41bf-a6de-21286115d133.png)
-
 ---
 
 # 👋 • Introdução
